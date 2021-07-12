@@ -1,0 +1,19 @@
+/*--------------------------------------------first article start here ----------------------------------------------*/
+
+.player-section{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.player{
+    display: flex;
+    align-items: center;
+}
+.player img{
+    width: 56px;
+    height: 56px;
+}
+
+
+
+
+/*--------------------------------------------first article end here ----------------------------------------------*/
